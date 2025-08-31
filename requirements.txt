@@ -1,0 +1,12 @@
+
+streamlit==1.37.1
+pandas==2.2.2
+geopandas==0.14.4
+shapely==2.0.4
+folium==0.17.0
+branca==0.7.2
+openai==1.43.0
+pydantic==2.8.2
+faiss-cpu==1.8.0.post1
+sodapy==2.2.0
+requests==2.32.3
